@@ -13,5 +13,4 @@
 Dashboard
 ![image](https://user-images.githubusercontent.com/103792029/228288764-191b58f9-accf-4cba-80bb-bde2ebbc72b7.png)
 
-![image](https://user-images.githubusercontent.com/103792029/228288146-1f51e75d-a33c-4f4f-b11a-5f4c0c04bac2.png)
 
