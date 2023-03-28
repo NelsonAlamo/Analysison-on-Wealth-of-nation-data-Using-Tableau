@@ -1,4 +1,4 @@
-1.  Map
+  1.  Map
 ![image](https://user-images.githubusercontent.com/103792029/228287835-0baaf7d9-1369-4b35-b7b4-21764a0000d7.png)
 
 2.	Pie Chart
